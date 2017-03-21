@@ -1,0 +1,9 @@
+/node_modules
+/public/storage
+/vendor
+.env
+.DS_Store
+/storage
+/.idea
+
+/storage/logs/laravel.log
