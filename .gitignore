@@ -3,7 +3,6 @@
 /vendor
 .env
 .DS_Store
-/storage
+/storage/*.key
+/storage/logs
 /.idea
-
-/storage/logs/laravel.log
